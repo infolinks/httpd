@@ -1,5 +1,7 @@
 # httpd
 
+[![Build Status](https://travis-ci.org/infolinks/httpd.svg?branch=master)](https://travis-ci.org/infolinks/httpd)
+
 Simple & reusable base image for simple [httpd](https://httpd.apache.org/)
 servers.
 
